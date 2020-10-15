@@ -1,22 +1,18 @@
 ---
 title: Connecting to Exchange Online with MFA
 toc: true
+categories:
+  - PowerShell
+tags:
+- M365
+- Exchange
 ---
 
 I run a script to manage leaver accounts for my company; for a while now to get Exchange Online to play nice I have bypassed MultiFactor for the time I need the connection. I found some free time and started to research a way of MFA and Exchange Online to play nicely together improving my workflow and increasing my security.  
 
 > Note this as been supserded by <https://docs.microsoft.com/en-us/powershell/exchange/exchange-online-powershell-v2?view=exchange-ps>
 
-## Contents
-
-* [Prerequisites](#Prerequisites)
-* [Script Use](#UsingScript)
-* [Using the script without the start menu shortcut](#NoStartMenu)
-* [Making it portable](#portable)
-* [Adding a prefix](#prefix)
-* [Summary](#Summary)
-
-## <a name="Prerequisites"> </a> Prerequisites
+## Prerequisites
 
 Install the Exchange Online PowerShell 'Module' [Microsoft's KB](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell?view=exchange-ps). You can find it from the Exchange Online portal (IE or Edge).
 
@@ -26,13 +22,13 @@ Install the Exchange Online PowerShell 'Module' [Microsoft's KB](https://docs.mi
 1. Click configure under Exchange Online PowerShell Module
 1. The run the one once tool opens, hence the need for IE or Edge. 
 
-## <a name="UsingScript"> </a>Script use
+## Script use
 
 The run once tool installs some files into your Local AppData folder but also puts a shortcut in your start menu called "Microsoft Exchange Online Powershell Module." Click on this, and a PowerShell window opens with some helpful text on how to use it. To get started run the command in the screenshot below with your UPN and depending on your configuration and device it might connect you with no credentials needed or prompt for a password and MFA token.
 
 ![PowerShell screenshot](/images/2019-3-17-Exchange-PSREmote1.png "PowerShell screenshot")
 
-## <a name="NoStartMenu"></a> Using the script without the start menu shortcut
+## Using the script without the start menu shortcut
 
 All the above might be great for doing the odd ticket and random tasks, but you can't automate this or use this for testing in an ISE and who wants to click a start menu item when you're already in PowerShell.
 The below line will help with it; this searches your Local App Data for the script and pops the folder into a variable.
@@ -49,7 +45,7 @@ Then you can simply call the script using the the below
 
 > ProTip: Watch out the first two lines of the script as it changes your location to your userprofile.
 
-## <a name="portable" ></a> Making it portable
+## Making it portable
 
 *[Skip](#workflow) to the workflow without knowing know the things I tried.*
 
@@ -58,7 +54,7 @@ These are some of the things I tried and failed
 
 * Copy the files to a new folder and call script.
 * Creating it as a module.
-    * As a module, I tried importing with a global flag.
+  * As a module, I tried importing with a global flag.
 * Adding the Verbose flag to the module worked intermittently but then completely stopped working when I ran the start menu shortcut.
 * Running PowerShell as an admin.
 
@@ -90,7 +86,7 @@ Catch
     }
 ```
 
-## <a name="prefix"></a> Adding a prefix
+## Adding a prefix
 
 The whole reason for me looking into this script is it's a part of a larger script, including Exchange on-prem and other online services. When connecting to Exchange Online and Exchange on Prem the command get-mailbox isn't clear which environment the mailbox is from, and the two will conflict. I could take the easy route and have Get-Mailbox be Online, and Get-OnPremMailbox to be the different one. My issue with this is it's not clear enough which is which. As we now have this away from the click once installer we can edit the script without fear of it updating.
 
@@ -106,6 +102,6 @@ to
 $PSSessionModuleInfo = Import-PSSession $PSSession -Prefix EOL -AllowClobber
 ```
 
-## <a name="Summary"> </a> Summary
+## Summary
 
 This was a longer task than I first thought and frustrating as the best practice for scripts is to provide a module, but Microsoft's Exchange team have always been a bit different. I was able to roll this into my larger script and carry on my workload without removing MFA just would have been easier if there was a consistent approach to remote PS sessions from Microsoft.
