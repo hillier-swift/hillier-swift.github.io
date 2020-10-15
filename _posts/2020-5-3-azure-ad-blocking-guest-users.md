@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Azure AD blocking Guest users Error 53004
 ---
 
