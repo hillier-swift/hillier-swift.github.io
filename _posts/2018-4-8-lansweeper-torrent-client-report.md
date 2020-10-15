@@ -1,5 +1,4 @@
 ---
-layout: post
 title: LanSweeper torrent client report
 ---
 

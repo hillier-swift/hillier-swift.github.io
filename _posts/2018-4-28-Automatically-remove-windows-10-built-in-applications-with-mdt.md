@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Automatically remove Windows 10 built in applications with MDT
 ---
 

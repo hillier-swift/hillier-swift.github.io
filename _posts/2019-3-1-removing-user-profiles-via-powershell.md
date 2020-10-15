@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Removing User Profiles via Powershell
 ---
 

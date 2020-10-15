@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Plex - Docker for Windows (Lessons Learnt)
 ---
 

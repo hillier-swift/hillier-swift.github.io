@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Manually Adding or Removing a shared mailbox from Outlook 2016
 ---
 

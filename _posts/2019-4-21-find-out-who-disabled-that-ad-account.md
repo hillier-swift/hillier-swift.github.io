@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: Investigating who disabled an AD account
 ---
 
@@ -12,5 +12,6 @@ If you want to do this in PowerShell change the date and start time on the below
 ```powershell
 get-winevent -computername DC.Domain.local -FilterHashtable @{ LogName = "Security"; Starttime = "21/04/2019" ; ID = 4725 } | fl
 ```
+
 The field SubjectUserName is the user who disabled the account.
 Building this out in broader environments. If you had an automated system to disable user accounts you could use this to find the last weeks disables which bypassed this process. If you do have a lot of disables, you could pipe this to a variable and filter the data searching for the username.

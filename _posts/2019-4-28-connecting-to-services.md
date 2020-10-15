@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Connecting to Services Script - With MFA
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Connecting to Exchange Online with MFA
 toc: true
 ---

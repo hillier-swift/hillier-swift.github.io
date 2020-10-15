@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Remotely Updating Windows Core Servers with Powershell
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Migrating from Wordpress to Ghost
 ---
 

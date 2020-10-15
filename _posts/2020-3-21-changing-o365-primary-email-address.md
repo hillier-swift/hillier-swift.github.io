@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Changing the primary email address of an Office 365 Group
 ---
 

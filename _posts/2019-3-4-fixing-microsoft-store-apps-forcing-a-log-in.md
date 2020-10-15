@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Fixing Microsoft Store apps forcing a log in
 ---
 
