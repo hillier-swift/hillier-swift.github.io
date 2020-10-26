@@ -1,5 +1,10 @@
 ---
 title: Plex - Docker for Windows (Lessons Learnt)
+image: /assets/images/page-header-image.png
+categories:
+  - PowerShell
+tags:
+  - Docker
 ---
 
 For the long Easter weekend, I set my self a task to rebuild my Microserver to Windows 10. Part of this reason was so I could play with Docker, the other was AV companies charging a fortune for server AV. I didn't want to go full headless, and Linux for a home lab is a step too far.  
