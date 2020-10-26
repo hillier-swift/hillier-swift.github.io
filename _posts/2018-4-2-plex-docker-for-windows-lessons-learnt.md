@@ -1,7 +1,7 @@
 ---
 title: Plex - Docker for Windows (Lessons Learnt)
 header:   
-  image: images/Header/2018-4-4-plex.jpeg
+  image: /images/Header/2018-4-4-plex.jpeg
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - PowerShell
