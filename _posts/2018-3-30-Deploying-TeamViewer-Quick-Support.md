@@ -1,6 +1,5 @@
 ---
 title: Deploying TeamViewer Quick Support
-layout: single
 categories:
   - PowerShell
 tags:

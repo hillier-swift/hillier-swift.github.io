@@ -1,6 +1,9 @@
 ---
-
 title: Investigating who disabled an AD account
+categories:
+  - PowerShell
+tags:
+  - Active Directory
 ---
 
 Just a little post as its been while, the other day I had an AD user account that was disabled when it shouldn't. When this happens, I like to check with the admin who disabled the account for the reasons as you never know the background. 

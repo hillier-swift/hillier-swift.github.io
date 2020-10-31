@@ -1,5 +1,8 @@
 ---
 title: Fixing Microsoft Store apps forcing a log in
+tags:
+  - JFD
+  - Windows 10
 ---
 
 I was having an issue with a user where they were trying to download applications from the Microsoft store. The default behaviour is it asks you to sign in with a Microsoft account but gives you the option of No,thanks. This users machine would not allow you to skip and forced you to login, even after logging on with a O365 account, applications would not download. After trying the usual; reboots, signing in and out of the Microsoft account and removing the O365 account from the profile I found the below to work.

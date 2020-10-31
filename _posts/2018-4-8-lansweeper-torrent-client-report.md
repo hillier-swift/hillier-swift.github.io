@@ -1,5 +1,10 @@
 ---
 title: LanSweeper torrent client report
+categories:
+  - SQL
+tags:
+  - LanSweeper
+  - JFD
 ---
 
 This might not be the cleanest way for doing it but got the job done. The aim was to create a quick report to enable us to find Torrent applications on Client machines.

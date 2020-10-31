@@ -3,8 +3,8 @@ title: Connecting to Exchange Online with MFA
 toc: true
 categories:
   - PowerShell
+  - M365
 tags:
-- M365
 - Exchange
 ---
 

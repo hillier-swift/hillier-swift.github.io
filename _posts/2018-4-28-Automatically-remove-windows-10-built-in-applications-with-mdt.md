@@ -1,5 +1,11 @@
 ---
 title: Automatically remove Windows 10 built in applications with MDT
+categories:
+  - PowerShell
+tags:
+  - Windows 10
+  - Deployment
+  - MDT
 ---
 
 Windows 10 love it or hate it; it's here to stay with and with the feature updates coming a few times a year keeping that clean base image isn't easy. One of the main complaints I have got from Windows 10 enterprise is why does it have all the bloat like Xbox live or Paint 3D. I have tried a few methods to achieve my goal. All of which have lead me to the final version of the script of the bottom of this post.  

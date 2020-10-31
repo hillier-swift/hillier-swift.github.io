@@ -1,5 +1,9 @@
 ---
 title: Removing User Profiles via Powershell
+categories:
+  - PowerShell
+tags:
+  - JFD
 ---
 
 So I wanted a way to remove userprofiles with a bit more consistency than through the control panel. For a one liner just change $user varible for "*[usersFoldername]" on the line three.

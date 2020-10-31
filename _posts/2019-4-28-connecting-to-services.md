@@ -1,5 +1,7 @@
 ---
 title: Connecting to Services Script - With MFA
+categories:
+  - PowerShell
 ---
 
 As I have started to spend more and more time using PowerShell connecting to all the necessary services when I needed was beginning to be a drag. Also, every time I wrote a script I added a section for connecting to the required services. After finding some spare time one long weekend, I created a modular script and set my self a few rules.

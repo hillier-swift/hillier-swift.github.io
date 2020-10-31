@@ -1,5 +1,10 @@
 ---
 title: Changing the primary email address of an Office 365 Group
+categories:
+  - M365
+  - PowerShell
+tags:
+  - JFD
 ---
 
 Sometimes users change their mind and an office 365 group now needs to be a shared mailbox or they didn't like the email address they created in the first place.

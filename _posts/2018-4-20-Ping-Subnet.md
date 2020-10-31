@@ -1,5 +1,9 @@
 ---
 title: Ping Subnet
+categories:
+  - PowerShell
+tags:
+  - JFD
 ---
 
 Been a few days so dug into my useful scripts. Wrote this one when a member of staff gave a device a static IP address and forgot what IP they gave it. It could be jazzed up to run the pings quicker but this gets the job done and you can fire it in the background and come back to CSV of IP's you can filter. Also handy for a home networks where you may not have the access to the DHCP server.  

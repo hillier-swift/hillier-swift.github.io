@@ -1,5 +1,9 @@
 ---
 title: Security Headers upgrading from C to A+
+categories:
+  - Secuirty
+tags:
+  - Blog Updates
 ---
 [Security Headers](https://securityheaders.com) is a site run by [Scott Helme](https://scotthelme.co.uk), and I was getting some stick for getting **C** when I first setup the blog. This is my journey as an Operations guy not a WebDev so most of this is on the advise on people with more experience than me. Some of this was easy; some took a lot of work and help from a friend. Where this has been the case it's better to read their resources rather than mine, and there are links when it's needed. The reasons I didn't get an A are:
 

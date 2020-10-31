@@ -1,5 +1,10 @@
 ---
 title: Azure AD blocking Guest users Error 53004
+categories:
+  - M365
+tags:
+  - Azure AD
+  - Security
 ---
 
 Had some fun troubleshooting this one, it makes sense once you know about it but takes a moment to troubleshoot. The long and short of it Azure AD does not show you if a guest user has a risky user flag but if you have a risk policy assigned to all users or guest, it will try to enforce policies such as MFA to those users. Due to the users having their tenancy they wouldn’t be able to fulfil this requirement causing a failed log in.

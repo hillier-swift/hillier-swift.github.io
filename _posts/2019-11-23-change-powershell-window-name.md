@@ -1,5 +1,9 @@
 ---
 title: Changing A PowerShell Window Name
+categories:
+  - PowerShell
+tags:
+  - JFD
 ---
 
 So I have been finding myself having two different user context PowerShell windows open but keeping track of which one is which is a pain. Found an easy one liner to update the title of the window.
