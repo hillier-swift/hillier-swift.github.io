@@ -1,6 +1,6 @@
 ---
 title: Plex - Docker for Windows (Lessons Learnt)
-excerpt: "Testing overlay for a better header look and feel"
+excerpt: "Using Powershell with docker to create a plex instance"
 header:   
   overlay_image: /images/Header/2018-4-4-plex.jpeg
   overlay_filter: 0.5

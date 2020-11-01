@@ -4,13 +4,12 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**MySelf**](https://hillier-swift.co.uk)"
 title: Migrating from Wordpress to Ghost
+excerpt: "I had some fun moving a few articles from my old WordPress blog to my new one, it would have been quicker to copy and paste, but I shall not be defeated! *Editors note - I was nearly defeated.*"
 categories:
   - Security
 tags:
   - Blog Updates
 ---
-
-I had some fun moving a few articles from my old WordPress blog to my new one, it would have been quicker to copy and paste, but I shall not be defeated! *Editors note - I was nearly defeated.*
 
 ### Prereqs
 

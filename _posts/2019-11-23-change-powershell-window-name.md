@@ -3,14 +3,13 @@ header:
   overlay_image: /images/Header/2019-11-23-change-powershell-window-name.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @seabas**](https://unsplash.com/@seabas)"
+excerpt: "So I have been finding myself having two different user context PowerShell windows open but keeping track of which one is which is a pain. Found an easy one liner to update the title of the window."
 title: Changing A PowerShell Window Name
 categories:
   - PowerShell
 tags:
   - JFD
 ---
-
-So I have been finding myself having two different user context PowerShell windows open but keeping track of which one is which is a pain. Found an easy one liner to update the title of the window.
 
 ```powershell
 $host.ui.RawUI.WindowTitle = “New Window Name”

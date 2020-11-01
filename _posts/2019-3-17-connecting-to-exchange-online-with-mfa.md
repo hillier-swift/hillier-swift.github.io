@@ -4,6 +4,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @heytowner**](https://unsplash.com/@heytowner)"
 title: Connecting to Exchange Online with MFA
+excerpt: "A portable script to help you connect to Exchange online, if you have MFA enabled"
 toc: true
 categories:
   - PowerShell

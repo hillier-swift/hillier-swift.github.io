@@ -4,6 +4,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @timothypaulsmith**](https://unsplash.com/@timothypaulsmith)"
 title: Fixing Microsoft Store apps forcing a log in
+excerpt: "Sometimes the Microsoft store doesn't do what you want, this is one fix to get you downloading again"
 tags:
   - JFD
   - Windows 10

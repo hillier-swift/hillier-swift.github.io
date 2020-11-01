@@ -4,6 +4,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @yuhao**](https://unsplash.com/@yuhao)"
 title: Investigating who disabled an AD account
+excerpt: "One way of helping you find out who disabled and Active Directory account"
 categories:
   - PowerShell
 tags:

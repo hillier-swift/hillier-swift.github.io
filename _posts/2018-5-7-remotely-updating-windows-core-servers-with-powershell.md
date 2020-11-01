@@ -4,6 +4,7 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash: Pietro Jeng**](https://unsplash.com/photos/n6B49lTx7NM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
 title: Remotely Updating Windows Core Servers with Powershell
+excerpt: "Using PSExec & PS Remote sessions to update windows server core in a manual way"
 categories:
   - PowerShell
 tags:

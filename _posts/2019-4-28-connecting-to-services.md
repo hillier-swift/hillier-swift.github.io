@@ -3,6 +3,7 @@ header:
   overlay_image: /images/Header/2019-4-28-connecting-to-services.jpg
   overlay_filter: 0.5
   caption: "Photo credit: [**MySelf**](https://hillier-swift.co.uk)"
+excerpt: "A script to connect help connecting to onPrem and cloud services"
 title: Connecting to Services Script - With MFA
 categories:
   - PowerShell

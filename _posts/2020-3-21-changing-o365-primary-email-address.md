@@ -4,14 +4,13 @@ header:
   overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @ventiviews**](https://unsplash.com/@ventiviews)"
 title: Changing the primary email address of an Office 365 Group
+excerpt: "Sometimes users change their mind and an office 365 group now needs to be a shared mailbox or they didn't like the email address they created in the first place."
 categories:
   - M365
   - PowerShell
 tags:
   - JFD
 ---
-
-Sometimes users change their mind and an office 365 group now needs to be a shared mailbox or they didn't like the email address they created in the first place.
 
 ## The process
 
