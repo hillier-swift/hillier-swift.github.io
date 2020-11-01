@@ -1,4 +1,7 @@
 ---
+header:   
+  image: /images/Header/2020-10-26-Time-Management.jpg
+  caption: "Photo credit: [**unsplash: @kenner_be**](https://unsplash.com/https://unsplash.com/@kenner_be)"
 title: Time Management
 categories:
   - Personal Development
