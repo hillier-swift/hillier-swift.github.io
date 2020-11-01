@@ -1,7 +1,7 @@
 ---
 header:   
   image: /images/Header/2019-3-4-fixing-microsoft-store-apps-forcing-a-log-in.jpg
-  caption: "Photo credit: [**unsplash: @timothypaulsmith**]("https://unsplash.com/@timothypaulsmith")
+  caption: "Photo credit: [**unsplash: @timothypaulsmith**](https://unsplash.com/@timothypaulsmith)"
 title: Fixing Microsoft Store apps forcing a log in
 tags:
   - JFD

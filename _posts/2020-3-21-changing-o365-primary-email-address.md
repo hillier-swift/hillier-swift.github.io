@@ -1,7 +1,7 @@
 ---
 header:   
   image: /images/Header/2020-3-21-changing-o365-primary-email-address.jpg
-  caption: "Photo credit: [**unsplash: @ventiviews**]("https://unsplash.com/@ventiviews")
+  caption: "Photo credit: [**unsplash: @ventiviews**](https://unsplash.com/@ventiviews)"
 title: Changing the primary email address of an Office 365 Group
 categories:
   - M365

@@ -1,7 +1,7 @@
 ---
 header:   
   image: /images/Header/2020-5-3-azure-ad-blocking-guest-users.jpg
-  caption: "Photo credit: [**unsplash: @anikinearthwalker**]("https://unsplash.com/@anikinearthwalker?utmsource=ghost&utmmedium=referral&utmcampaign=api-credit")
+  caption: "Photo credit: [**unsplash: @anikinearthwalker**](https://unsplash.com/@anikinearthwalker?utmsource=ghost&utmmedium=referral&utmcampaign=api-credit)"
 title: Azure AD blocking Guest users Error 53004
 categories:
   - M365

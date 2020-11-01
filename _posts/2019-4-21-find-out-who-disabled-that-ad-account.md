@@ -1,7 +1,7 @@
 ---
 header:   
   image: /images/Header/2019-4-21-find-out-who-disabled-that-ad-account.jpg
-  caption: "Photo credit: [**unsplash: @yuhao**]("https://unsplash.com/@yuhao")
+  caption: "Photo credit: [**unsplash: @yuhao**](https://unsplash.com/@yuhao)"
 title: Investigating who disabled an AD account
 categories:
   - PowerShell
