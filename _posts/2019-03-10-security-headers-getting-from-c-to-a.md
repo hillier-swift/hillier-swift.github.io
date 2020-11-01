@@ -4,7 +4,7 @@ header:
   caption: "Photo credit: [**unsplash: @danielsessler**](https://unsplash.com/@danielsessler)"
 title: Security Headers upgrading from C to A+
 categories:
-  - Secuirty
+  - Security
 tags:
   - Blog Updates
 ---
