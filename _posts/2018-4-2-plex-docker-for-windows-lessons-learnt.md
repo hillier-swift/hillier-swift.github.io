@@ -3,6 +3,7 @@ title: Plex - Docker for Windows (Lessons Learnt)
 excerpt: "Testing overlay for a better header look and feel"
 header:   
   overlay_image: /images/Header/2018-4-4-plex.jpeg
+  overlay_filter: 0.5
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
   - PowerShell
