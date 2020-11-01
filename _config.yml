@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Tony Hillier-Swift"
   avatar           : /images/Tony.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A lead system administrator for a global company, these are just a few useful musings."
+  bio              : "A lead system administrator for a global company, these are just a few of my useful musings."
   location         : "Bristol, UK."
   email            :
   links:
