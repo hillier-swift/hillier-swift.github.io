@@ -19,7 +19,7 @@ This isn't designed as a guide on how should you work its information on my jour
 
 ## Keeping on task
 
-When I first started looking at improving my productivity and output, I researched what the prominent people were doing and scanned over blogs. Didn't have any real cookie-cutter takeaways, more everyone has their way you need to find what works for you. 
+When I first started looking at improving my productivity and output, I researched what the prominent people were doing and scanned over blogs. Didn't have any real cookie-cutter takeaways, more everyone has their way you need to find what works for you.
 One thing that did stick in my mind was a technique called [Pomodoro](https://lifehacker.com/productivity-101-a-primer-to-the-pomodoro-technique-1598992730), *have a read of that post, but the short version is below.*
 
 * Choose a task to be accomplished.
@@ -42,7 +42,7 @@ After a bit more research, I found a tool that could take it up a notch and made
 
 ![Toggle Time reporting](/images/time-management-toggle-report.png)
 
-This was great my timesheets were more accurate, I could see in the reports if I was working the split of tasking I needed to or how many hours I spent in meetings. What I didn't know at the start, it had built-in features for Pomodoro. My two requirements were covered in one place. So in Toggl once you start your timer, and the allotted time has passed, you get a notification the slice is over. It will ask you what would you like to do; carry on the project or start on a new one. With a one-button push, your back to your workflow. I have found doing this hasn't added any overhead to my day. You can also make it tell you when to take a break and come back, but that's currently too much for me. 
+This was great my timesheets were more accurate, I could see in the reports if I was working the split of tasking I needed to or how many hours I spent in meetings. What I didn't know at the start, it had built-in features for Pomodoro. My two requirements were covered in one place. So in Toggl once you start your timer, and the allotted time has passed, you get a notification the slice is over. It will ask you what would you like to do; carry on the project or start on a new one. With a one-button push, your back to your workflow. I have found doing this hasn't added any overhead to my day. You can also make it tell you when to take a break and come back, but that's currently too much for me.
 
 > Toggl tip, Also it nags you when you forget to track your time, and its calendar view means you can see missing chunks of time.
 
@@ -67,7 +67,7 @@ So whats what my next thing to work on. I have focused a lot on my 9-5 work-life
 So far, I have for my testing.
 
 * [stickK](https://www.stickk.com/) - Can put money on the line for a habit, sign a "commitment Contract" but also can have friends be a referee and a supporter to ensure you stick to your goal. Gave this one a quick look and it doesn't have the option to check a box each day so wasn't what I was after.
-* [SnapHabit](https://snaphabit.app/) - A simplistic app which looks like it has some hidden features for graphs. 
+* [SnapHabit](https://snaphabit.app/) - A simplistic app which looks like it has some hidden features for graphs.
 * [Habitify](https://habitify.me) - little less daunting that StickK but can only have 3 habits being tracked before you have to fork out some money
 
 ## Doesn't all this make you less productive
