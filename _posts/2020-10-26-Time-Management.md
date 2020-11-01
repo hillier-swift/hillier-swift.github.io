@@ -1,8 +1,10 @@
 ---
 header:   
-  image: /images/Header/2020-10-26-Time-Management.jpg
+  overlay_image: /images/Header/2020-10-26-Time-Management.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @kenner_be**](https://unsplash.com/https://unsplash.com/@kenner_be)"
 title: Time Management
+excerpt: "My journey on trying to increase my productivity"
 categories:
   - Personal Development
 tags:
