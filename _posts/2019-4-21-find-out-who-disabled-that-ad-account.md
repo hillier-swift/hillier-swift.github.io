@@ -1,6 +1,7 @@
 ---
 header:   
-  image: /images/Header/2019-4-21-find-out-who-disabled-that-ad-account.jpg
+  overlay_image: /images/Header/2019-4-21-find-out-who-disabled-that-ad-account.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @yuhao**](https://unsplash.com/@yuhao)"
 title: Investigating who disabled an AD account
 categories:

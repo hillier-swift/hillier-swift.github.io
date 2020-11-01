@@ -1,6 +1,7 @@
 ---
 header:   
-  image: /images/Header/2019-2-25-Migrrating-from-WordPress.jpg
+  overlay_image: /images/Header/2019-2-25-Migrrating-from-WordPress.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**MySelf**](https://hillier-swift.co.uk)"
 title: Migrating from Wordpress to Ghost
 categories:

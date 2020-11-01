@@ -1,6 +1,7 @@
 ---
 header:   
-  image: /images/Header/2019-11-23-change-powershell-window-name.jpg
+  overlay_image: /images/Header/2019-11-23-change-powershell-window-name.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**unsplash: @seabas**](https://unsplash.com/@seabas)"
 title: Changing A PowerShell Window Name
 categories:

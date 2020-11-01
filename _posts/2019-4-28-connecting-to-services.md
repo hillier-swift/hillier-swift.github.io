@@ -1,6 +1,7 @@
 ---
 header:   
-  image: /images/Header/2019-4-28-connecting-to-services.jpg
+  overlay_image: /images/Header/2019-4-28-connecting-to-services.jpg
+  overlay_filter: 0.5
   caption: "Photo credit: [**MySelf**](https://hillier-swift.co.uk)"
 title: Connecting to Services Script - With MFA
 categories:
