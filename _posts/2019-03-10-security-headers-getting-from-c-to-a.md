@@ -1,4 +1,7 @@
 ---
+header:   
+  image: /images/Header/2019-03-10-security-headers-getting-from-c-to-a.jpg
+  caption: "Photo credit: [**unsplash: @danielsessler**]("https://unsplash.com/@danielsessler")
 title: Security Headers upgrading from C to A+
 categories:
   - Secuirty

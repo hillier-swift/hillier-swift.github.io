@@ -1,4 +1,7 @@
 ---
+header:   
+  image: /images/Header/2018-5-7-Remotly-Updating-Core.jpg
+  caption: "Photo credit: [**Unsplash: Pietro Jeng**](https://unsplash.com/photos/n6B49lTx7NM?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText")
 title: Remotely Updating Windows Core Servers with Powershell
 categories:
   - PowerShell

@@ -1,7 +1,10 @@
 ---
+header:   
+  image: /images/Header/2019-2-25-Migrrating-from-WordPress.jpg
+  caption: "Photo credit: [**MySelf**](https://hillier-swift.co.uk")
 title: Migrating from Wordpress to Ghost
 categories:
-  - Secuirty
+  - Security
 tags:
   - Blog Updates
 ---
