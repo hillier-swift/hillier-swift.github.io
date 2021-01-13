@@ -30,7 +30,17 @@ If a guest user has a risky flag on their Home tenancy, this flag gets invisibil
 
 ## Solution
 
-Get the guest to confirm if there is any risky sign in with their account in their tenancy. If so contact their support structure to clear this appropriability. These risks can be found in Azure AD, Security, Risky Users. As being an ICT support professional not in the guest’s home tenant, I would not advise anyone to clear the risk without confirming and understanding what they are doing. I see this issue with a lot of small companies who may not understand but have access to clear these.
+Get the guest to confirm if there is any risky sign in with their account in their tenancy. If so contact their support structure to clear this appropriability. 
+
+* Sign in to the Azure portal Home - Microsoft Azure
+* In the top search box search for ‘Azure Active Directory.’
+* Select Security
+* Under report select Risky users
+* Select users account and select dismiss users risk.
+   * After an investigation on why the risk was raised, clicking on the risk gives more detail.
+   * If the option is greyed out, the signed-in user doesn’t have rights to clear risks.
+
+Being an ICT support professional not in the guest’s home tenant, I would not advise anyone to clear a risk without confirming and understanding what they are doing. I see this issue with a lot of small companies who may not understand the impact of just clearing a risky sign in.
 
 ## Further reading
 
